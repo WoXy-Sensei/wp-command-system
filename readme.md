@@ -13,10 +13,14 @@ Before we get started, make sure you have [Node.js](https://nodejs.org/) and [np
 1. Clone the Repository: Clone this repository to your local machine.
 
 ```
-git clone https://github.com/your-username/whatsapp-command-system.git
+git clone https://github.com/WoXy-Sensei/wp-command-system
 ```
 
 2. Install Dependencies: Navigate to the project directory and install the necessary dependencies.
+
+```
+npm install
+```
 
 3. Run the Project: Start the custom command system.
 
